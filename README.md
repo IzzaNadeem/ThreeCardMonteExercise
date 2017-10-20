@@ -1,5 +1,3 @@
-## Author 
-q
-q
-q
+3 card Monty
+Izza Nadeem
 
